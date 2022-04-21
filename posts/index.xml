@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Rahat&#39;s Blog</title>
+        <link>https://rabiulrahat.github.io/posts/</link>
+        <description>All Posts | Rahat&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>rabiulrahatt@gmail.com (Rabiul Rahat)</managingEditor>
+            <webMaster>rabiulrahatt@gmail.com (Rabiul Rahat)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 24 Feb 2022 22:34:18 &#43;0600</lastBuildDate><atom:link href="https://rabiulrahat.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First</title>
+    <link>https://rabiulrahat.github.io/first-en/</link>
+    <pubDate>Thu, 24 Feb 2022 22:34:18 &#43;0600</pubDate>
+    <author>Author</author>
+    <guid>https://rabiulrahat.github.io/first-en/</guid>
+    <description><![CDATA[It&rsquo;s about (COVID-19). Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus. Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment. However, some will become seriously ill and require medical attention. HOW IT SPREADS The virus can spread from an infected person’s mouth or nose in small liquid particles when they cough, sneeze, speak, sing or breathe. These particles range from larger respiratory droplets to smaller aerosols.]]></description>
+</item></channel>
+</rss>
